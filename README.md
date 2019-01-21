@@ -10,3 +10,5 @@ You have already spent the entire budget, and the client SUDDENLY wanted a CMS?
 4. Go to *sitename/admin.php*.
 5. ???????
 6. PROFIT.
+
+![Screenshot](https://i.imgur.com/SR4bq4Z.png)
